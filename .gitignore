@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+data/
+model/
+static/uploads/
+
+venv/
+__pycache__/
+*.pyc
+static/uploads/
+model/*.h5
+.env
